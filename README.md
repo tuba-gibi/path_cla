@@ -1,6 +1,6 @@
-### Canlısı gözüken Clarusway Pathlerinin bulunduğu bir web sayfası tasarlayınız.
 
-Canlı Linki=> https://assignment-data.vercel.app/
+
+Canlı Linki=> https://tuba-gibi.github.io/path_cla/
 
 ![clarusway](assingment3.gif)
 
